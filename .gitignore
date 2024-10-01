@@ -1,2 +1,5 @@
-# folders
-readings
+# vscode
+.vscode
+
+# docs
+*.pdf
